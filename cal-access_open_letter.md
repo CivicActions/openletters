@@ -1,13 +1,14 @@
-November 14, 2017
-
-Laurel Rosenhall
-1201 K Street, Ste 1201
+November 20, 2017
+Alex Padilla
+California Secretary of State
+1500 11th Street
 Sacramento, CA 95814
-laurel@calmatters.org
+(916) 653-6814
+secretary.padilla@sos.ca.gov
 
 RE: Cal-Access Modernization Request for Proposal
 
-Dear Ms. Rosenhall:
+Dear Secretary Padilla:
 
 We are writing to you to share our disappointment to discover that the Secretary of State’s plans for the Cal-Access Replacement System (CARS) project outlines an approach that ignores the best practices that the software industry has developed over the last 15 years. 
 
